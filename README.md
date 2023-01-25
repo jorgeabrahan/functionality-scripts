@@ -85,7 +85,7 @@ A script to create the folders of a university class. The purpose of this script
 
 The script will ask you to enter the amount of classes that you want to create and the amount of weeks that you want for each class. In my case each university period last for 3 months or 10 weeks, and for every week I want to have a folder for the resources of that week and another one for the activities. So for the sake of this explanation, let's assume that I create a directory for the "math" class with 9 weeks, the resulting output will look something like this:
 
-[dir-tree](./dir-tree.png)
+![dir-tree](./dir-tree.png)
 
 It creates a folder with the name of the class, which in this case is "math"; and inside that folder we have 1 folder for each week, which in turn will also have 2 folders, 1 for the activities and 1 for the resources. Every week folder inside the class will have its number right after the letter "W". 
 
